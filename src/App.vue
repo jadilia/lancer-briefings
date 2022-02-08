@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "planet": "Long Rim",
+        "year": "501Xu",
+        "system": "Long Rim",
+        "gate": "Annamite-Rào Cỏ",
+        "ring": "Annamite-Line",
+        "headerTitle": "Private",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Squad Designation",
+        "subheaderSubtitle": "N/A",
       },
       "options":{
         "eventsMarkdownPerMission": true

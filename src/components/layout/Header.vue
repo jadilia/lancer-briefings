@@ -20,7 +20,7 @@
     <div class="location-info">
       <div class="location-row" id="planet-year">
         <div id="planet">
-          <h4>Deployment Info</h4>
+          <h4>Planet</h4>
           <span class="subtitle">{{ header.planet }}</span>
         </div>
         <div id="year">

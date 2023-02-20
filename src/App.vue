@@ -143,7 +143,7 @@ export default {
       ],
       "header": {
         "planet": "Gloriosa // Karrakin Trade Baronies",
-        "year": "5016u",
+        "year": "5016u // Fall Quarter",
         "system": "Laurus",
         "gate": "Rysy Station",
         "ring": "Carpathian-Line",
